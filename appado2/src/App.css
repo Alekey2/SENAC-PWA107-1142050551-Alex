@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  color: red;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: black;
+  
+}
+
+input{
+ text-align: center;
+}
+

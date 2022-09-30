@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.cliente {
+    text-align: center;
+    padding: 10px;
+}
+
+.links {
+    padding: 15px;
+    
+    background-color: black;
+    color: blue;
+}
+    
+.formulario{
+    text-align: left;
+    margin: 0;
+    padding: 10px;
+}
+
+.for{
+    font-size: 20px;
+    text-align: left;
+}
+
+h1{
+    background-color: black;
+    color: white;
+}
